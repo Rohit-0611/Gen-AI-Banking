@@ -36,4 +36,4 @@ We welcome contributions from the community to make GenAI Banking Services even 
 
 ## Credits
 We would like to acknowledge the contributions of our team and the open-source community for making this project possible. We also extend our thanks to Google for their excellent language model.
-The YouTube Channel Codebasics helped me to work on this Project and better understand the concepts. https://www.youtube.com/watch?v=nAmC7SoVLd8&list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F
+The YouTube Channel Codebasics helped me to work on this Project and better understand the concepts [YouTube-codebasic](https://www.youtube.com/watch?v=nAmC7SoVLd8&list=PLeo1K3hjS3uu0N_0W6giDXzZIcB07Ng_F)
